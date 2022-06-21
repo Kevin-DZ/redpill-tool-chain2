@@ -3,7 +3,10 @@
         "pid": "0x1666",
         "vid": "0x0951",
         "sn": "2022NAS123456",
-        "mac1": "001132123456"
+        "mac1": "001132123456",
+        "SataPortMap": "40",
+        "DiskIdxMap": "0",
+        "SasIdxMap": "0"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
